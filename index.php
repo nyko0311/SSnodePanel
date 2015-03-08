@@ -8,7 +8,7 @@ include_once 'header.php';
 
     <div class="jumbotron">
         <h2><?php echo $site_name; ?></h2>
-        <p class="lead"> 多节点Shadowsocks科学上网</p>
+        <p class="lead"> 提供多节点Shadowsocks科学上网服务</p>
         <p><a href="http://ss.ryotamono.com/code.php"><h4>注册用邀请码领取</h4></a></p>
         <p><a class="btn btn-lg btn-success" href="user/reg.php" role="button">立即注册</a></p>
     </div>

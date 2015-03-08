@@ -50,7 +50,8 @@ $unix_time = $oo->get_last_unix_time();
                             <h3 class="box-title">公告&FAQ</h3>
                         </div><!-- /.box-header -->
                         <div class="box-body">
-                            
+                            <p> 服务正在测试期，不代表最终用户体验。</p>
+                            <p> 疑问及反馈：QQ 739282428 E-mail: ryotamono@gmail.com </p>
                         </div><!-- /.box-body -->
                     </div><!-- /.box -->
                 </div><!-- /.col (right) -->
