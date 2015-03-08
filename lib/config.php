@@ -32,8 +32,8 @@ $check_min = 100;
 $check_max = 500;
 
 //name
-$site_name = "VultrSS";
-$site_url  = "http://108.61.250.69/";
+$site_name = "RyotaSS";
+$site_url  = "http://ss.ryotamono.com/";
 
 //invite only
 $invite_only = true;
