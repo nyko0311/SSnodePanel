@@ -17,7 +17,7 @@ include_once 'header.php';
         <div class="col-lg-6">
             <a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks"><h4>Android</h4></a>
             <p>Android客户端</p>
-            <h4><a href="http://sourceforge.net/projects/shadowsocksgui/files/dist/">Shadowsocks C#</a></h4>
+            <h4><a href="http://ss.ryotamono.com/client/Shadowsocks-win-2.3.zip">Shadowsocks C#</a></h4>
             <p> Windows用户推荐此客户端.</p>
         </div>
 
@@ -25,7 +25,7 @@ include_once 'header.php';
             <a href="https://itunes.apple.com/us/app/shadowsocks/id665729974?mt=8"><h4>iOS</h4></a>
             <p>iOS客户端</p>
 
-            <h4><a href="https://github.com/ohdarling/GoAgentX/releases">GoAgentX</a></h4>
+            <h4><a href="http://ss.ryotamono.com/client/ShadowsocksX-2.6.1.dmg">ShadowsocksX</a></h4>
             <p> Mac用户推荐此客户端.</p>
         </div>
     </div><?php
