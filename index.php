@@ -8,7 +8,7 @@ include_once 'header.php';
 
     <div class="jumbotron">
         <h2><?php echo $site_name; ?></h2>
-        <p class="lead"> 每个月5G流量，美国节点。</p>
+        <p class="lead"> 多节点Shadowsocks服务。</p>
         <p><a class="btn btn-lg btn-success" href="user/reg.php" role="button">立即注册</a></p>
     </div>
 
