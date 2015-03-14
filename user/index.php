@@ -52,6 +52,7 @@ $unix_time = $oo->get_last_unix_time();
                         <div class="box-body">
                             <p> 服务正在测试期，不代表最终用户体验。</p>
                             <p> 疑问及反馈：QQ 739282428 E-mail: ryotamono@gmail.com </p>
+                            <p> 网站最后维护时间：2015-03-14 11:17:50 </p>
                         </div><!-- /.box-body -->
                     </div><!-- /.box -->
                 </div><!-- /.col (right) -->
@@ -98,8 +99,10 @@ $unix_time = $oo->get_last_unix_time();
                             <h3 class="box-title">连接信息</h3>
                         </div><!-- /.box-header -->
                         <div class="box-body">
+                            <p> 服务器地址:<code>108.61.250.69</code> </p>
                             <p> 端口: <code><?php echo $oo->get_port();?></code> </p>
                             <p> 密码: <?php echo $oo->get_pass();?> </p>
+                            <p> 加密方式: <code>aes-256-cfb</code> </p>
                             <p> 套餐: <span class="label label-info"> <?php echo $oo->get_plan();?> </span> </p>
                             <p> 最后使用时间: <code><?php echo date('Y-m-d H:i:s',$unix_time);  ?></code> </p>
                         </div><!-- /.box-body -->
